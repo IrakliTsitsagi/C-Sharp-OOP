@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Dogs dog = new Dogs();
-            // dog.name ver dainaxavs radgan sealedia. Dogs araa sealed da davinaxav dogBreeds
+            // dog.name ver dainaxavs radgan Animal sealedia. Dogs araa sealed da davinaxav dogBreeds
         }
     }
 
